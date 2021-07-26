@@ -87,7 +87,6 @@ a:hover {
   width: 0;
   height: 0;
   border-right: 760px solid transparent;
-  border-top: 500px solid transparent;
   border-bottom: 100px solid white;
   margin-left: 0%;
 }
@@ -97,7 +96,6 @@ a:hover {
   width: 0;
   height: 0;
   border-left: 760px solid transparent;
-  border-top: 500px solid transparent;
   border-bottom: 100px solid white;
   margin-left: 43.4%;
   margin-top: -10%;
@@ -1129,14 +1127,12 @@ footer {
 
   .header:after {
     border-right: 650px solid transparent;
-    border-top: 400px solid transparent;
     border-bottom: 100px solid white;
     margin-left: 0%;
   }
 
   .our-blog::before {
     border-left: 650px solid transparent;
-    border-top: 400px solid transparent;
     border-bottom: 100px solid white;
     margin-left: 36%;
   }
@@ -1356,14 +1352,12 @@ footer {
 
   .header:after {
     border-right: 450px solid transparent;
-    border-top: 300px solid transparent;
     border-bottom: 80px solid white;
     margin-left: 0%;
   }
 
   .our-blog::before {
     border-left: 450px solid transparent;
-    border-top: 300px solid transparent;
     border-bottom: 80px solid white;
     margin-left: 40.5%;
   }
@@ -1593,14 +1587,12 @@ footer {
 
   .header:after {
     border-right: 350px solid transparent;
-    border-top: 300px solid transparent;
     border-bottom: 70px solid white;
     margin-left: 0%;
   }
 
   .our-blog::before {
     border-left: 350px solid transparent;
-    border-top: 300px solid transparent;
     border-bottom: 70px solid white;
     margin-left: 40.5%;
   }
@@ -1898,14 +1890,12 @@ footer {
 
   .header:after {
     border-right: 320px solid transparent;
-    border-top: 250px solid transparent;
     border-bottom: 50px solid white;
     margin-left: 0%;
   }
 
   .our-blog::before {
     border-left: 320px solid transparent;
-    border-top: 250px solid transparent;
     border-bottom: 50px solid white;
     margin-left: 31.5%;
   }
@@ -2182,14 +2172,12 @@ footer {
 
   .header:after {
     border-right: 220px solid transparent;
-    border-top: 150px solid transparent;
     border-bottom: 40px solid white;
     margin-left: 0%;
   }
 
   .our-blog::before {
     border-left: 220px solid transparent;
-    border-top: 150px solid transparent;
     border-bottom: 40px solid white;
     margin-left: 28.1%;
   }
